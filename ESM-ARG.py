@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jan  29 19:54:55 2023
-
-@author: Jun Wu
-"""
 import argparse
 from train import train
 from predict import predict
